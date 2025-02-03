@@ -7,6 +7,7 @@ class BaseModel(models.Model):
     rich = RichTextField(verbose_name='Описание', blank=True, null=True)
     date = models.DateTimeField(verbose_name='Дата:', null=True, blank=True)
     image = models.ImageField(verbose_name='Картинка:', null=True, blank=True)
+    video_url = models.URLField(verbose_name='Ссылка на видео', blank=True, null=True)
 
 
 class Ajy(models.Model):
@@ -42,7 +43,6 @@ class Package(models.Model):
     description = models.TextField(verbose_name='Описание:', null=True, blank=True)
     start_tour = models.DateTimeField(verbose_name='Дата начало:')                             # ???db_index=True???
     end_tour = models.DateField(verbose_name='Дата конец:')
-    price = models.DecimalField(max_digits=8, decimal_places=2, verbose_name='Цена (в долларах):')
 
     def __str__(self):
         return self.name
@@ -66,11 +66,11 @@ class Combo(BaseModel):
     package = models.ForeignKey(Package, on_delete=models.CASCADE, related_name='packages',
                                 verbose_name='Пакеты')
     COMBO_CHOICES = (
-        ('FoodInfo', 'FoodInfo'),
-        ('Requirements', 'Requirements'),
-        ('Restrictions', 'Restrictions'),
-        ('PlacesToVisit', 'PlacesToVisit'),
-        ('YouGet', 'YouGet'),
+        ('FoodInfo', 'Информация о питании'),
+        ('Requirements', 'Рекомендуется'),
+        ('Restrictions', 'Не рекомендуется'),
+        ('PlacesToVisit', 'Места для посещения'),
+        ('YouGet', 'Что вы получите от нас'),
     )
     combo_choices = models.CharField(max_length=100, choices=COMBO_CHOICES, verbose_name='Место:')
 

@@ -42,7 +42,7 @@ class PackageSerializer(serializers.ModelSerializer):
     class Meta:
         model = Package
         fields = [
-            'id', 'package_categories', 'package_ajy', 'name', 'description', 'start_tour', 'end_tour', 'price',
+            'id', 'package_categories', 'package_ajy', 'name', 'description', 'start_tour', 'end_tour',
             'photo_packages', 'packages', 'lesson_packages']
 
 

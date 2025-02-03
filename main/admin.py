@@ -33,7 +33,7 @@ class LessonInline(admin.StackedInline):
 class ComboInline(admin.StackedInline):
     model = Combo
     extra = 0
-    fields = ("package", "combo_choices", "name", "rich", "image", "date")
+    fields = ("package", "combo_choices", "name", "rich", "image", "video_url")
     autocomplete_fields = ["package"]
 
 
@@ -45,7 +45,7 @@ class PhotoPackageInline(admin.StackedInline):
 
 @admin.register(Package)
 class PackageAdmin(admin.ModelAdmin):
-    list_display = ("name", "category", "ajy", "start_tour", "end_tour", "price")
+    list_display = ("name", "category", "ajy", "start_tour", "end_tour")
     search_fields = ("name", "description", "category__name", "ajy__name")
     list_filter = ("category", "ajy", "start_tour", "end_tour")
     autocomplete_fields = ["category", "ajy"]
