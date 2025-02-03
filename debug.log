@@ -1,0 +1,151 @@
+INFO 2025-01-12 16:45:04,974 tgbot Initializing Telegram bot
+INFO 2025-01-12 16:45:05,147 tgbot Bot initialized successfully
+INFO 2025-01-12 16:45:08,905 tgbot Initializing Telegram bot
+INFO 2025-01-12 16:45:09,126 tgbot Bot initialized successfully
+INFO 2025-01-12 16:45:26,908 signals Signal received for new client 84
+ERROR 2025-01-12 16:45:26,916 signals Error in notify_managers signal: You cannot call this from an async context - use a thread or sync_to_async.
+INFO 2025-01-12 16:45:39,292 signals Signal received for new client 85
+ERROR 2025-01-12 16:45:39,292 signals Error in notify_managers signal: You cannot call this from an async context - use a thread or sync_to_async.
+INFO 2025-01-12 16:55:02,608 tgbot Initializing Telegram bot
+INFO 2025-01-12 16:55:02,839 tgbot Bot initialized successfully
+INFO 2025-01-12 16:55:04,140 tgbot Initializing Telegram bot
+INFO 2025-01-12 16:55:04,318 tgbot Bot initialized successfully
+INFO 2025-01-12 17:11:26,745 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:11:27,085 tgbot Bot initialized successfully
+INFO 2025-01-12 17:11:29,523 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:11:30,194 tgbot Bot initialized successfully
+INFO 2025-01-12 17:12:03,418 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:12:03,666 tgbot Bot initialized successfully
+INFO 2025-01-12 17:12:05,173 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:12:05,353 tgbot Bot initialized successfully
+INFO 2025-01-12 17:12:19,474 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:12:19,704 tgbot Bot initialized successfully
+INFO 2025-01-12 17:15:53,492 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:15:53,887 tgbot Bot initialized successfully
+INFO 2025-01-12 17:17:33,827 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:17:34,180 tgbot Bot initialized successfully
+INFO 2025-01-12 17:18:20,568 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:18:20,788 tgbot Bot initialized successfully
+INFO 2025-01-12 17:18:24,176 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:18:24,475 tgbot Bot initialized successfully
+INFO 2025-01-12 17:18:55,547 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:18:55,757 tgbot Bot initialized successfully
+INFO 2025-01-12 17:18:58,544 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:18:58,709 tgbot Bot initialized successfully
+INFO 2025-01-12 17:28:21,488 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:28:21,835 tgbot Bot initialized successfully
+INFO 2025-01-12 17:28:36,078 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:28:36,283 tgbot Bot initialized successfully
+INFO 2025-01-12 17:28:50,583 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:28:50,783 tgbot Bot initialized successfully
+INFO 2025-01-12 17:29:47,704 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:29:47,886 tgbot Bot initialized successfully
+INFO 2025-01-12 17:30:20,252 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:30:20,442 tgbot Bot initialized successfully
+INFO 2025-01-12 17:31:38,949 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:31:39,207 tgbot Bot initialized successfully
+INFO 2025-01-12 17:31:40,226 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:31:40,398 tgbot Bot initialized successfully
+ERROR 2025-01-12 17:32:02,651 tgbot Error notifying managers: You cannot call this from an async context - use a thread or sync_to_async.
+INFO 2025-01-12 17:40:03,283 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:40:03,679 tgbot Bot initialized successfully
+INFO 2025-01-12 17:43:18,888 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:43:19,123 tgbot Bot initialized successfully
+INFO 2025-01-12 17:43:48,076 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:43:48,292 tgbot Bot initialized successfully
+INFO 2025-01-12 17:43:51,975 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:43:52,202 tgbot Bot initialized successfully
+INFO 2025-01-12 17:44:21,897 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:44:22,064 tgbot Bot initialized successfully
+INFO 2025-01-12 17:45:32,583 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:45:32,792 tgbot Bot initialized successfully
+INFO 2025-01-12 17:46:10,070 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:46:10,259 tgbot Bot initialized successfully
+INFO 2025-01-12 17:46:45,797 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:46:46,002 tgbot Bot initialized successfully
+INFO 2025-01-12 17:47:47,071 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:47:47,267 tgbot Bot initialized successfully
+INFO 2025-01-12 17:48:02,522 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:48:02,710 tgbot Bot initialized successfully
+INFO 2025-01-12 17:48:13,508 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:48:13,704 tgbot Bot initialized successfully
+DEBUG 2025-01-12 17:48:38,146 signals Signal triggered for Client ID 91
+ERROR 2025-01-12 17:48:38,178 tgbot Error notifying managers: asyncio.run() cannot be called from a running event loop
+ERROR 2025-01-12 17:48:38,186 signals Error in notify_managers signal: object NoneType can't be used in 'await' expression
+INFO 2025-01-12 17:50:59,605 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:50:59,802 tgbot Bot initialized successfully
+INFO 2025-01-12 17:51:21,611 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:51:21,785 tgbot Bot initialized successfully
+INFO 2025-01-12 17:52:01,920 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:52:02,133 tgbot Bot initialized successfully
+INFO 2025-01-12 17:52:12,544 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:52:12,716 tgbot Bot initialized successfully
+DEBUG 2025-01-12 17:52:42,070 signals Signal triggered for Client ID 92
+ERROR 2025-01-12 17:52:42,074 tgbot Error notifying managers: asyncio.run() cannot be called from a running event loop
+ERROR 2025-01-12 17:52:42,251 views Error creating client: Got a `TypeError` when calling `Client.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Client.objects.create()`. You may need to make the field read-only, or override the ClientSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\django\db\models\base.py", line 1013, in save_base
+    post_save.send(
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\mysite\crm\signals.py", line 12, in notify_managers
+    async_to_sync(bot_instance.notify_all_managers)(instance)
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\asgiref\sync.py", line 254, in __call__
+    return call_result.result()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 451, in result
+    return self.__get_result()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 403, in __get_result
+    raise self._exception
+  File "C:\Users\User\PycharmProjects\LiderUmraTest\venv\lib\site-packages\asgiref\sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+TypeError: object NoneType can't be used in 'await' expression
+
+INFO 2025-01-12 17:57:30,549 tgbot Initializing Telegram bot
+INFO 2025-01-12 17:57:30,830 tgbot Bot initialized successfully
+INFO 2025-01-21 20:06:04,110 tgbot Initializing Telegram bot
+INFO 2025-01-21 20:06:04,424 tgbot Bot initialized successfully
+INFO 2025-01-21 20:06:06,136 tgbot Initializing Telegram bot
+INFO 2025-01-21 20:06:06,372 tgbot Bot initialized successfully
+INFO 2025-01-24 00:07:16,182 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:07:16,695 tgbot Bot initialized successfully
+INFO 2025-01-24 00:07:34,154 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:07:34,518 tgbot Bot initialized successfully
+INFO 2025-01-24 00:17:29,511 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:17:29,983 tgbot Bot initialized successfully
+INFO 2025-01-24 00:17:39,972 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:17:40,290 tgbot Bot initialized successfully
+INFO 2025-01-24 00:17:55,934 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:17:56,266 tgbot Bot initialized successfully
+INFO 2025-01-24 00:17:59,472 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:18:00,220 tgbot Bot initialized successfully
+INFO 2025-01-24 00:20:55,684 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:20:56,049 tgbot Bot initialized successfully
+INFO 2025-01-24 00:22:04,116 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:22:04,511 tgbot Bot initialized successfully
+INFO 2025-01-24 00:24:48,717 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:24:49,094 tgbot Bot initialized successfully
+INFO 2025-01-24 00:28:59,288 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:28:59,673 tgbot Bot initialized successfully
+INFO 2025-01-24 00:29:20,407 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:29:20,801 tgbot Bot initialized successfully
+INFO 2025-01-24 00:29:28,424 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:29:28,774 tgbot Bot initialized successfully
+INFO 2025-01-24 00:29:49,415 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:29:49,815 tgbot Bot initialized successfully
+INFO 2025-01-24 00:29:53,069 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:29:53,516 tgbot Bot initialized successfully
+INFO 2025-01-24 00:31:35,243 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:31:35,564 tgbot Bot initialized successfully
+INFO 2025-01-24 00:32:25,700 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:32:26,173 tgbot Bot initialized successfully
+INFO 2025-01-24 00:33:38,439 tgbot Initializing Telegram bot
+INFO 2025-01-24 00:33:38,985 tgbot Bot initialized successfully
